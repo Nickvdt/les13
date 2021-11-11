@@ -4,4 +4,7 @@ function doeiets(){
 
 }
 
+function warning(){
+    alert("Booooooo");
+}
 
